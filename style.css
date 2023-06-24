@@ -27,21 +27,47 @@ a{color: blue; text-decoration:none ;}
 
 h2{padding-top: 3%; padding-left: 4%; text-align: left;}
 
+h3{font-size: 40px;}
 
 .grid{
     /* border: 1px solid red; */
     display: flex;
     flex-wrap: wrap;
-    margin-left: 10%;
+    margin-left: 5%;
   
 }
 
 .col-33{
     border: 8px solid white;
-    margin: 2%;
+    margin: 1%;
     background: (133, 133, 227, 0.577);
-    width: 22%;
-    padding: 14px;
+    width: 33%;
+    padding: 9px;
     border-radius:20%;
     border-style: dotted;
 }
+
+@media (max-width: 768px){
+
+    .col-33{
+        border: 8px solid white;
+        margin: 2%;
+        background: (133, 133, 227, 0.577);
+        width: 100%;
+        border-radius:20%;
+        border-style: dotted;
+    }
+
+    h3{font-size: 20px;}
+}
+
+@media (min-width:768px) and (max-width:1023px) {
+    h1{color:red}
+}
+
+
+.res{
+    width: 15%; height:auto;
+}
+
+
