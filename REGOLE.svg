@@ -1,0 +1,143 @@
+<svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 767.58 497.42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-4 {
+        fill: url(#Sfumatura_senza_nome);
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        fill: #a7a5a6;
+      }
+
+      .cls-8 {
+        fill: #d3d2d2;
+      }
+
+      .cls-9 {
+        font-size: 54px;
+        font-family: Marvel-Regular, Marvel;
+      }
+
+      .cls-10 {
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" y="31.92" width="751.63" height="465.5"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <polyline class="cls-1" points="660.24 497.44 456.9 372.8 508.66 338.91 503.62 324.78 70.95 337.95 0 31.92 751.63 58.24 704.19 318.67 621.13 321.2 639.75 359.84 587.4 388.2 660.24 497.44"/>
+    </clipPath>
+    <radialGradient id="Sfumatura_senza_nome" data-name="Sfumatura senza nome" cx="-111.94" cy="538.66" r="505.95" gradientTransform="translate(532.58 -465.99) scale(1.33)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e9db7"/>
+      <stop offset="0.02" stop-color="#5e9cb7"/>
+      <stop offset="0.03" stop-color="#5e9cb7"/>
+      <stop offset="0.04" stop-color="#5d9cb7"/>
+      <stop offset="0.05" stop-color="#5d9bb7"/>
+      <stop offset="0.06" stop-color="#5c9bb7"/>
+      <stop offset="0.07" stop-color="#5c9ab6"/>
+      <stop offset="0.08" stop-color="#5b9ab6"/>
+      <stop offset="0.11" stop-color="#5b99b6"/>
+      <stop offset="0.12" stop-color="#5a99b6"/>
+      <stop offset="0.13" stop-color="#5a99b6"/>
+      <stop offset="0.14" stop-color="#5998b5"/>
+      <stop offset="0.15" stop-color="#5998b5"/>
+      <stop offset="0.16" stop-color="#5997b5"/>
+      <stop offset="0.18" stop-color="#5897b5"/>
+      <stop offset="0.19" stop-color="#5897b5"/>
+      <stop offset="0.2" stop-color="#5796b5"/>
+      <stop offset="0.21" stop-color="#5796b4"/>
+      <stop offset="0.22" stop-color="#5696b4"/>
+      <stop offset="0.23" stop-color="#5695b4"/>
+      <stop offset="0.26" stop-color="#5595b4"/>
+      <stop offset="0.27" stop-color="#5594b4"/>
+      <stop offset="0.28" stop-color="#5494b3"/>
+      <stop offset="0.29" stop-color="#5393b3"/>
+      <stop offset="0.31" stop-color="#5392b3"/>
+      <stop offset="0.35" stop-color="#5292b2"/>
+      <stop offset="0.36" stop-color="#5291b2"/>
+      <stop offset="0.37" stop-color="#5191b2"/>
+      <stop offset="0.38" stop-color="#5190b2"/>
+      <stop offset="0.39" stop-color="#5090b2"/>
+      <stop offset="0.41" stop-color="#5090b1"/>
+      <stop offset="0.43" stop-color="#4f8fb1"/>
+      <stop offset="0.44" stop-color="#4f8fb1"/>
+      <stop offset="0.46" stop-color="#4e8eb1"/>
+      <stop offset="0.47" stop-color="#4d8eb1"/>
+      <stop offset="0.48" stop-color="#4d8db0"/>
+      <stop offset="0.5" stop-color="#4c8cb0"/>
+      <stop offset="0.53" stop-color="#4c8cb0"/>
+      <stop offset="0.54" stop-color="#4b8cb0"/>
+      <stop offset="0.55" stop-color="#4b8bb0"/>
+      <stop offset="0.56" stop-color="#4a8baf"/>
+      <stop offset="0.57" stop-color="#4a8aaf"/>
+      <stop offset="0.6" stop-color="#498aaf"/>
+      <stop offset="0.61" stop-color="#4989af"/>
+      <stop offset="0.62" stop-color="#4889af"/>
+      <stop offset="0.63" stop-color="#4789ae"/>
+      <stop offset="0.65" stop-color="#4788ae"/>
+      <stop offset="0.67" stop-color="#4788ae"/>
+      <stop offset="0.68" stop-color="#4687ae"/>
+      <stop offset="0.7" stop-color="#4587ad"/>
+      <stop offset="0.71" stop-color="#4586ad"/>
+      <stop offset="0.73" stop-color="#4485ad"/>
+      <stop offset="0.75" stop-color="#4385ad"/>
+      <stop offset="0.78" stop-color="#4385ac"/>
+      <stop offset="0.79" stop-color="#4284ac"/>
+      <stop offset="0.8" stop-color="#4284ac"/>
+      <stop offset="0.81" stop-color="#4183ac"/>
+      <stop offset="0.84" stop-color="#4183ac"/>
+      <stop offset="0.84" stop-color="#4082ab"/>
+      <stop offset="0.86" stop-color="#4082ab"/>
+      <stop offset="0.88" stop-color="#3f81ab"/>
+      <stop offset="0.91" stop-color="#3e81ab"/>
+      <stop offset="0.93" stop-color="#3e80aa"/>
+      <stop offset="0.94" stop-color="#3d80aa"/>
+      <stop offset="0.95" stop-color="#3d80aa"/>
+      <stop offset="0.96" stop-color="#3c80aa"/>
+      <stop offset="0.96" stop-color="#3c7faa"/>
+      <stop offset="1" stop-color="#3c7faa"/>
+    </radialGradient>
+    <clipPath id="clip-path-4">
+      <rect class="cls-1" x="13.95" y="0.06" width="753.77" height="306.96"/>
+    </clipPath>
+  </defs>
+  <g class="cls-2">
+    <g class="cls-3">
+      <g class="cls-3">
+        <path class="cls-4" d="M0,31.92v465.5H751.63V31.92Z"/>
+      </g>
+    </g>
+  </g>
+  <g class="cls-5">
+    <path d="M16,0,87,306l633.24-19.27,47.39-260.4L16,0"/>
+  </g>
+  <path class="cls-6" d="M46.3,25.06,739.09,49.28l-39,214.15-594.31,18.1L46.3,25.06"/>
+  <path class="cls-7" d="M105.77,281.53,84.64,47.74l654.45,1.54L46.3,25.06l59.47,256.51"/>
+  <path class="cls-8" d="M105.77,281.53l575.34-34.37,58-197.88-39,214.15L105.8,281.53"/>
+  <path class="cls-6" d="M496,238.13l48.82,74.46-45.85,28.89,141.69,88.58-58.07-78.58L638,322.68l-32.28-105L496,238.13"/>
+  <path d="M502.3,244.64,524.61,307l-51.77,33.9L676.19,465.53,603.35,356.3l52.37-28.37-44.6-92.57L638,322.63l-55.44,28.8,51.8,74.63L498.94,341.48l45.85-28.89L502.3,244.64"/>
+  <path class="cls-7" d="M502.3,244.64l66,68.33-40,29.92,106.06,83.17L498.94,341.48l45.85-28.89L502.3,244.64"/>
+  <path class="cls-8" d="M611.12,235.36l6.6,82.59-57.5,26.94,74.14,81.17-51.8-74.66L638,322.6l-26.88-87.24"/>
+  <text class="cls-9" transform="translate(131.87 139.48)">ATTRAVERSO LE SCELTE<tspan class="cls-10" x="356.66" y="0">, </tspan><tspan x="379.29" y="0">DECIDERAI </tspan><tspan x="33.03" y="64.8">LA SORTE DEL PROTAGONISTA</tspan></text>
+</svg>
