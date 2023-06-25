@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
     font-family: inherit;
+
+    place-items: center;
+    align-content:center;
 }
 
 body {
@@ -142,8 +145,24 @@ section{
     background: rgba(116, 116, 251, 0.3);
 }
 
+.hidden{
+opacity: 0;
+transition: all 1s;
+transform: translateX(-100%);
+filter: blur(5px);
+}
 
+/* @media (prefers-reduced-motion) {
+    .hidden{
+      transition: none;
+        }
+} */
 
+.show{
+opacity: 1;
+filter: blur(0);
+transform: translateX(0);
+}
 
 /* CELLULARE *//* CELLULARE *//* CELLULARE *//* CELLULARE *//* CELLULARE *//* CELLULARE *//* CELLULARE *//* CELLULARE *//* CELLULARE */
 /* CELLULARE */
