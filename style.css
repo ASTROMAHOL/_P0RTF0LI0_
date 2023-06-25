@@ -23,6 +23,10 @@ h1 {
     font-size: 45px;
 }
 
+.immagine{
+    display:flex; margin-top: 2%;
+}
+
 #menu-principale li {
     display: inline;
     margin: 20px;
@@ -93,10 +97,11 @@ h3 {
     padding: 15px;
     max-width: 1300px;
     margin: 0 auto;
+    
 }
 
 .wha {
-    width: 15%;
+    width: 20%;
     height: auto;
     position: fixed;
     bottom: 2%;
@@ -117,12 +122,13 @@ h3 {
 @media (max-width: 768px) {
 
     .col-33 {
-        border: 8px solid white;
-        margin: 2%;
-        background: (133, 133, 227, 0.577);
-        width: 100%;
-        border-radius: 20%;
-        border-style: dotted;
+      border: 8px solid rgb(240, 154, 154);
+    margin: 1%;
+    background: rgba(116, 116, 251, 0.432);
+    width: 100%;
+    padding: 9px;
+    border-radius: 20px;
+    border-style: dotted;
     }
 
     
@@ -156,9 +162,18 @@ h3 {
 
 }
 
+/* CELLULARE */
 @media (max-width: 768px) {
 .wha {
     display: block;
+}
+.immagine{
+margin-top: 2%;
+display: flex;
+}
+.res {
+    width:  20px;
+    height: auto;
 }
 }
 
@@ -176,4 +191,6 @@ main {
 .res {
     width: 15%;
     height: auto;
+    display:flex ;
+
 }
