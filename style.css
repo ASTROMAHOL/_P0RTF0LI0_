@@ -34,6 +34,8 @@ h1 {
 
 #menu-principale {
     text-align: center;
+    margin-top:2%;
+    
 }
 
 #menu-principale li {
@@ -41,6 +43,7 @@ h1 {
 }
 
 #menu-principale ul {
+    color: red;
     padding: 0px;
     position: relative;
     bottom: 9px;
@@ -100,7 +103,7 @@ h3 {
 .container {
     padding: 15px;
     max-width: 1300px;
-    margin: 50px auto;
+    margin: 15px 0px auto;
     padding-bottom: 4%;
 }
 
@@ -139,27 +142,57 @@ section{
     background: rgba(116, 116, 251, 0.3);
 }
 
-/* CELLULARE */
 
+
+
+/* CELLULARE *//* CELLULARE *//* CELLULARE *//* CELLULARE *//* CELLULARE *//* CELLULARE *//* CELLULARE *//* CELLULARE *//* CELLULARE */
+/* CELLULARE */
+/* CELLULARE */
+/* CELLULARE */
+/* CELLULARE */
+/* CELLULARE */
+/* CELLULARE */
 @media (max-width: 768px) {
 
+
+    *{color: #eee;}
+    
     .col-33 {
       /* border: 8px solid rgb(240, 154, 154); */
     margin-top: 4%;
-    background: rgba(116, 116, 251, 0.3);
+    background: rgba(1, 1, 250, 0.086);
     width: 100%;
     padding: 9px;
     border-radius: 20px;
     /* border-style:double; */
-
     }
 
+    #menu-principale {
+        text-align: center;
+        /* margin-top:2%; */
+        width: 70%;
+        margin-left: 15%;
+        /* background-color: blueviolet; */
+        /* margin-top: 0px; */
+    }
+        #menu-principale ul {
+            padding: 2%;
+            background-color: rgba(0, 0, 255, 0.189);
+            border-radius: 20px;
+        }
+    a{
+    color:rgba(0, 0, 255);
+    }
+    
     h1{
-        font-size: 30px;
+        font-size: 25px;
+        margin-left: 8%;
     }
     h2{
         font-size: 18px;
         text-align: center;
+        color: black;
+        text-decoration: double;
     }
     h3 {
         font-size: 20px;
@@ -181,7 +214,13 @@ section{
     .container {
         padding: 15px;
         max-width: 1300px;
-        margin: 0 2%;
+        /* margin: 0 2%; */
+        /* padding-top: 60px; */
+        background: rgb(113,57,255);
+        background: linear-gradient(360deg, rgba(113,57,255,1) 2%, rgba(0,212,255,0) 100%);
+      border-radius:0px ;
+        /* margin: auto; */
+       
     }
     .wha {
         display: block;
@@ -198,12 +237,17 @@ section{
         width: 50%;
         height: 50%;
         display:flex ;
-        border-radius:15%; margin-top: 20px; margin-bottom: 20px; margin-left: 25%;
+        border-radius:15%; margin-top: 2px; margin-bottom: 20px; margin-left: 25%;
     }
 }
 
 
 
+
+
+
+
+/* TABLET *//* TABLET *//* TABLET *//* TABLET *//* TABLET *//* TABLET *//* TABLET *//* TABLET *//* TABLET *//* TABLET */
 /* TABLET */
 @media (min-width:768px) and (max-width:1023px) {
     h1 {
