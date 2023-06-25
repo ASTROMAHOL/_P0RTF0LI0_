@@ -102,7 +102,7 @@ h3 {
     bottom: 2%;
     right: 4%;
     display: none;
-    display: inline-block;
+   
 }
 
 .col-33 {
@@ -126,10 +126,7 @@ h3 {
         border-style: dotted;
     }
 
-    .wha {
-        display: block;
-    }
-
+    
     h1{
         font-size: 30px;
     }
@@ -159,6 +156,13 @@ h3 {
     }
 
 }
+
+@media (max-width: 768px) {
+.wha {
+    display: block;
+}
+}
+
 
 @media (min-width:768px) and (max-width:1023px) {
     h1 {
