@@ -102,11 +102,10 @@ h3 {
     bottom: 2%;
     right: 4%;
     display: none;
-   
 }
 
 .col-33 {
-    border: 8px solid white;
+    border: 8px solid rgb(240, 154, 154);
     margin: 1%;
     background: rgba(116, 116, 251, 0.432);
     width: 33%;
